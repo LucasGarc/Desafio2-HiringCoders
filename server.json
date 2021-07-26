@@ -1,0 +1,32 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "photo": "https://static.nike.com/a/images/q_auto:eco/t_product_v1/f_auto/dpr_1.3/w_465,c_limit/c3b39b7e-9e51-4daf-9ba3-5b13bd958eb9/air-max-2090-usa-mens-shoes-673SNp.png",
+            "name":"Nike Air Max 2090 USA",
+            "description": "Men's Shoes",
+            "price": 150
+        },
+        {
+            "id": 2,
+            "photo": "https://static.nike.com/a/images/q_auto:eco/t_product_v1/f_auto/dpr_1.3/w_465,c_limit/ff4db3ec-a6cb-45a3-bebf-3aaf86003ad7/blazer-mid-77-big-kids-shoes-QQqMd8.png",
+            "name":"Nike Blazer Mid '77",
+            "description": "Big Kids' Shoes",
+            "price": 90
+        },
+        {
+            "id": 3,
+            "photo": "https://static.nike.com/a/images/q_auto:eco/t_product_v1/f_auto/dpr_1.3/w_465,c_limit/7746bad6-93ab-45d2-88e0-90f48e5a8a5e/flex-run-2021-womens-road-running-shoes-wjHkVD.png",
+            "name":"Nike Flex Run 2021",
+            "description": "Women's Road Running Shoes",
+            "price": 160
+        },
+        {
+            "id": 4,
+            "photo": "https://static.nike.com/a/images/q_auto:eco/t_product_v1/f_auto/dpr_1.3/w_465,c_limit/640b7af7-ac79-4af0-8fb9-d3b999d15abe/free-metcon-4-womens-training-shoes-lhQKzn.png",
+            "name":"Nike Free Metcon 4",
+            "description": "Women's Training Shoes",
+            "price": 120
+        }
+    ]
+}
